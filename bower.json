@@ -1,0 +1,20 @@
+{
+  "name": "Gulp-SimpleWebProject",
+  "version": "1.0.0",
+  "authors": [
+    "Logan <lbsneo@gmail.com>"
+  ],
+  "description": "Gulp-SimpleWebProject Bower Library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
